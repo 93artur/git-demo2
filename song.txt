@@ -1,3 +1,5 @@
 first string
 second string
 remote add
+
+useing git gui
