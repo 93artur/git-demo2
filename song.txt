@@ -3,3 +3,6 @@ second string
 remote add
 
 useing git gui
+
+check the command revert
+and have fun
